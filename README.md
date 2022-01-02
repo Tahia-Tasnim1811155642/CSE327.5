@@ -1,1 +1,1 @@
-Online Grocery Shop web application.
+Online Grocery Shop web application
